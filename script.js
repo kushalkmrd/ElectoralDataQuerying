@@ -29,7 +29,7 @@ function displayResults(sortedParties) {
 
     sortedParties.forEach(([party, total]) => {
         const p = document.createElement('p');
-        p.textContent = `${party}: ${total.toLocaleString()} lakhs`;
+        p.textContent = `${party}: ${total / 10000000} crores`;
         resultDiv.appendChild(p);
     });
 }

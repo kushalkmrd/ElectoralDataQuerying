@@ -16,9 +16,6 @@ This web application allows users to filter and display the total amount purchas
 
 ## Hosting
 To host this application on a server:
-- Use platforms like GitHub Pages, Netlify, or Vercel to host your static website for free.
-- Upload your HTML, CSS, and JavaScript files to the platform.
-- Follow the platform's instructions to deploy your website.
-
+- Have used github pages for hosting 
 ## Libraries Used
 - [Papa Parse](https://www.papaparse.com/) for parsing CSV files in JavaScript.
